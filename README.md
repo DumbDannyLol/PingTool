@@ -11,13 +11,16 @@ Option 1:
 
 ![image](https://user-images.githubusercontent.com/60897810/147145075-30145c44-94be-4655-94e2-6fb83cce8f26.png)
 
+
 Option 2:
 
 ![image](https://user-images.githubusercontent.com/60897810/147145171-6b138b14-c16d-4427-ab08-c87ab11edaca.png)
 
+
 Option 3:
 
 ![image](https://user-images.githubusercontent.com/60897810/147145228-7a92eb48-c686-4197-a1f8-0b819d0d48fd.png)
+
 
 # Notes:
 I can't guarentee all of it works cause I didn't do good testing I was just trying to get it out of my Desktop.
